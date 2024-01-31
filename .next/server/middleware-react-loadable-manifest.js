@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"barchart.tsx -> react-apexcharts":{"id":7229,"files":["static/chunks/6c44d60f.ce0533179bcc40d8.js","static/chunks/229.81b90bcc011f115c.js"]},"baryear.tsx -> react-apexcharts":{"id":7229,"files":["static/chunks/6c44d60f.ce0533179bcc40d8.js","static/chunks/229.81b90bcc011f115c.js"]}}';
