@@ -1,1 +1,9 @@
-{"/_app":"pages/_app.js","/_document":"pages/_document.js","/ProtectedRoute":"pages/ProtectedRoute.html","/api/hello":"pages/api/hello.js","/barchart":"pages/barchart.html","/baryear":"pages/baryear.html","/components/Footer":"pages/components/Footer.html","/components/Header":"pages/components/Header.html","/dashboard":"pages/dashboard.html","/expense":"pages/expense.html","/expensedashboard":"pages/expensedashboard.html","/income":"pages/income.html","/incomedashboard":"pages/incomedashboard.html","/_error":"pages/_error.js","/":"pages/index.html","/login":"pages/login.html","/piechart":"pages/piechart.html","/register":"pages/register.html","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dashboard": "pages/dashboard.js",
+  "/expense": "pages/expense.js",
+  "/income": "pages/income.js",
+  "/login": "pages/login.js"
+}
